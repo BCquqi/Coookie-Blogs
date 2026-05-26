@@ -3,7 +3,7 @@ title: 经典算法梳理
 date: 2025-11-09 11:42:45 +0800
 categories: [algorithm]
 tags: []
-description: 经典算法的全面梳理
+description:  按照难度排序。本文仅为经典算法的展示，有模板的直接上代码加注释，没有模板的会简要梳理思想。目前更新到大约CSP-J难度，持续更新中。
 toc: true
 comments: true
 pin: false
@@ -11,7 +11,6 @@ math: true
 mermaid: true
 ---
 
-# 经典算法梳理
 ## 前言
 本文仅为经典算法的展示，有模板的直接上代码加注释，没有模板的会简要梳理思想。\
 目前更新到大约CSP-J难度，持续更新中。
